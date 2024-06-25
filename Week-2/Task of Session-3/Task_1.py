@@ -1,3 +1,4 @@
+# Using Pyautogui to open Emails and change Emails from unread to read
 import pyautogui as pg
 import webbrowser
 import time
